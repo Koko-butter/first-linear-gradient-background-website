@@ -41,10 +41,10 @@ h3{
     border-radius: 5px;
     border: 1px solid black;
 }
-.checkbox{
+/*.checkbox{
     padding-right: 185px;
     margin-top: 20px;
-}
+}*/
 .checkbox-container{
     padding-right:190px;
 }
@@ -171,7 +171,7 @@ button{
         font-size: 20px;
     } */ 
     .checkbox-container{
-        padding-right:80px;
+        padding-right:0px;
         font-size:15px
     }
     .paragraph{
