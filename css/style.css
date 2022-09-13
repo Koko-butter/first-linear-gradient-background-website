@@ -135,7 +135,7 @@ button{
         
     } */
     .email{
-        padding-right: 249px;
+        padding-right: 253px;
         font-size: 15px;
     }
     .password1{
@@ -146,7 +146,7 @@ button{
         border: 1px solid black;
     }
     .password{
-        padding-right: 210px;
+        padding-right: 250px;
         font-size: 15px;
     }
     /* .checkbox{ */
@@ -157,6 +157,7 @@ button{
     }
     .checkbox-container{
         padding-right: 0px;
+        margin-left:30px
     }
     .checkbox1{
         font-size: 20px;
