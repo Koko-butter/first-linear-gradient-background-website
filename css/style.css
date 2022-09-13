@@ -171,7 +171,8 @@ button{
         font-size: 20px;
     } */ 
     .checkbox-container{
-        margin-right:90px;
+        padding-right:0px;
+        margin-left:80px;
     }
     .paragraph{
         /* text-align: right; */
