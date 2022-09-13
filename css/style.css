@@ -124,7 +124,7 @@ button{
 @media screen and (max-width:767px) {
     .container{
         width: 100%;
-        padding-bottom: 80px;
+        padding-bottom: 50px;
         /* height: 480px; */
     }
     /* /* .email1{
@@ -146,7 +146,7 @@ button{
         border: 1px solid black;
     }
     .password{
-        padding-right: 240px;
+        padding-right: 275px;
         font-size: 15px;
     }
     /* .checkbox{ */
@@ -156,7 +156,7 @@ button{
         border: 2px solid black;
     }
     .checkbox-container{
-        padding-right: 100px;
+        padding-right: 130px;
     }
     .checkbox1{
         font-size: 20px;
