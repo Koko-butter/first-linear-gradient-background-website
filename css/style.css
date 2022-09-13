@@ -124,7 +124,7 @@ button{
 @media screen and (max-width:767px) {
     .container{
         width: 100%;
-        padding-bottom: 50px;
+        padding-bottom: 70px;
         /* height: 480px; */
         padding-top:5px
     }
@@ -171,7 +171,7 @@ button{
         font-size: 20px;
     } */ 
     .checkbox-container{
-        margin-right:140px;
+        margin-right:120px;
         font-size:15px
     }
     .paragraph{
