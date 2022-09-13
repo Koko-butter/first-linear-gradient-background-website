@@ -146,7 +146,7 @@ button{
         border: 1px solid black;
     }
     .password{
-        padding-right: 214px;
+        padding-right: 210px;
         font-size: 15px;
     }
     /* .checkbox{ */
@@ -157,6 +157,7 @@ button{
     }
     .checkbox-container{
         margin-right: 0px;
+    padding-right:0px
         
     }
     .checkbox1{
