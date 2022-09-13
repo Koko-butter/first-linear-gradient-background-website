@@ -1,0 +1,217 @@
+body{
+    background: linear-gradient( to right,purple, rgb(239, 168, 37));   
+    
+}
+.container{
+    /* align-items: center; */
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    /* margin-left: 500px; */
+    margin-top: 145px;
+    border-radius: 5px;
+}
+.form1{
+    /* padding-right: 120px; */
+}
+.email{
+    padding-right: 259px;
+    
+}
+h3{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.password{
+    padding-right: 239px;
+}
+.email1{
+    margin-bottom: 10px;
+    width: 290px;
+    height: 25px;
+    margin-top: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+.password1{
+    width: 290px;
+    height: 25px;
+    margin-top: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.checkbox{
+    padding-right: 185px;
+    margin-top: 20px;
+}
+.checkbox-container{
+    padding-right: 18px;
+}
+button{
+    width: 294px;
+    background-color: blue;
+    border: 0px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+.paragraph{
+    text-align: right;
+    margin-right: 28px;
+    margin-top: 28px;
+}
+/* ipad media query */
+@media screen and (min-width:768px) and (max-width:1023px){
+    .container{
+        width: 650px;
+        height: 600px;
+        margin-top: 210px;        
+        padding-bottom: 19px;
+    }
+    h3{
+        padding-top: 60px;
+        font-size: 50px;
+    }
+    .email{
+        padding-right: 505px;
+        font-size:27px;
+    }
+    .email1{
+        margin-bottom: 20px;
+        width: 570px;
+        height: 45px;
+        margin-top: 8px;
+        font-size: 20px;
+    }
+    .password{
+        padding-right: 470px;
+        font-size:27px;
+    }
+    .password1{
+        width: 570px;
+        height: 45px;
+        font-size: 20px;
+    }
+    .checkbox{
+        /* margin-right: 455px; */
+        width: 25px;
+        height: 25px;
+        border: 2px solid black;
+    }
+    .checkbox1{
+        font-size: 27px;
+    }
+    .checkbox-container{
+        margin-right: 388px;
+        margin-top: 27px;
+    }
+    button{
+        width: 570px;
+        height: 45px;
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .paragraph{
+        /* text-align: right; */
+        margin-right: 39px;
+        margin-top: 32px;
+        font-size: 25px;
+
+    }
+}
+@media screen and (max-width:767px) {
+    .container{
+        width: 100%;
+        padding-bottom: 80px;
+        /* height: 480px; */
+    }
+    /* /* .email1{
+        margin-bottom: 20px;
+        width: 290px;
+        height: 30px;
+        margin-top: 8px;
+        
+    } */
+    .email{
+        padding-right: 245px;
+        font-size: 20px;
+    }
+    .password1{
+        width: 290px;
+        height: 30px;
+        margin-top: 8px;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    .password{
+        padding-right: 210px;
+        font-size: 20px;
+    }
+    /* .checkbox{ */
+        /* margin-right: 455px; */
+        /* width: 15px;
+        height: 15px;
+        border: 2px solid black;
+    }
+    .checkbox-container{
+        padding-right: 157px;
+    }
+    .checkbox1{
+        font-size: 20px;
+    }
+    h3{ */
+        /* padding-top: 40px;
+        font-size: 30px;
+    }
+    button{
+        width: 290px;
+           height: 35px;
+        margin-top: 30px;
+        font-size: 20px;
+    } */ 
+    .checkbox-container{
+        padding-right: 185px;
+    }
+    .paragraph{
+        /* text-align: right; */
+        margin-right: 112px;
+        margin-top: 32px;
+        font-size: 18px;
+
+    }
+}
+ @media screen and (max-width:280px) { 
+     .container{
+        width: 265px;
+        height: 320px;
+    }
+    .email{
+        padding-right: 195px;
+    }
+    .email1{
+        margin-bottom: 20px;
+        width: 240px;
+        height: 30px;
+        margin-top: 8px;
+        
+    } 
+    .password{
+        padding-right: 168px;
+    }
+    .password1{
+        width: 240px;
+        height: 30px;
+     }
+     .checkbox-container{
+        padding-right: 130px;
+     }
+     button{
+        width: 250px;
+     }
+     .paragraph{
+        margin-right: 15px;
+     }
+ } 
+
