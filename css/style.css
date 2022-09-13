@@ -126,6 +126,7 @@ button{
         width: 100%;
         padding-bottom: 50px;
         /* height: 480px; */
+        padding-top:10px
     }
     /* /* .email1{
         margin-bottom: 20px;
@@ -170,7 +171,7 @@ button{
         font-size: 20px;
     } */ 
     .checkbox-container{
-        padding-right: 500px;
+        padding-right:350px;
     }
     .paragraph{
         /* text-align: right; */
