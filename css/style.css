@@ -46,7 +46,7 @@ h3{
     margin-top: 20px;
 }
 .checkbox-container{
-    padding-right:150px;
+    padding-right:200px;
 }
 button{
     width: 294px;
@@ -171,7 +171,7 @@ button{
         font-size: 20px;
     } */ 
     .checkbox-container{
-        margin-right:120px;
+        margin-right:0px;
         font-size:15px
     }
     .paragraph{
